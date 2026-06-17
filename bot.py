@@ -29,7 +29,7 @@ COLOR_BA     = "BA0047"
 COLOR_FF     = "FF4A52"
 COLOR_NEW    = "44BEF9"
 COLOR_WHITE  = "FFFFFF"
-ALLOWED_USER = 6911248333 #YourID
+ALLOWED_USER = 1899208318 #YourID
 
 bot = Bot(token=BOT_TOKEN)
 dp  = Dispatcher(storage=MemoryStorage())
