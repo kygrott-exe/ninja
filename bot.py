@@ -23,7 +23,7 @@ BASE_DIR     = Path(__file__).parent.resolve()
 LOTTIES_DIR  = BASE_DIR / "lotties"
 DEFAULT_FONT = str(BASE_DIR / "Anton-Regular.ttf")
 
-BOT_TOKEN    = os.getenv("BOT_TOKEN", "8277263200:AAFzSV6fQrwKdRkIIeSrIkC3-9-Wz4R2OQ8")
+BOT_TOKEN    = os.getenv("BOT_TOKEN", "8641638446:AAHU1q4tSijiW1alAZSUhUcf9oucPPi1SlM")
 LOGO_ID      = "mylogo"
 COLOR_BA     = "BA0047"
 COLOR_FF     = "FF4A52"
